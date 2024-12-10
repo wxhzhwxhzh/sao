@@ -34,6 +34,8 @@ var config = {
           { text: 'DP官网', link: 'http://drissionpage.cn/' },
           { text: '虫盒', link: 'https://spiderbox.cn/' },
           { text: 'vitpress教学', link: 'https://docs.bugdesigner.cn/docs/Tutorial/vitepress.html' },
+          { text: 'CurlConverter', link: 'https://curlconverter.com/' },
+          { text: '骚神博客', link: 'https://wxhzhwxhzh.github.io/saossion_code_helper_online/' },
         ]
       },
 

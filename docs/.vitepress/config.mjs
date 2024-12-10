@@ -12,7 +12,7 @@ var config = {
   description: "Asao VitePress Site",
   
   // https://vitepress.dev/reference/default-theme-config
-  head: [["link", { rel: "icon", href: "public/fav1.ico" }]],
+  head: [["link", { rel: "icon", href: "./fav1.ico" }]],
   themeConfig: {
 
     logo: '/logo/sao_logo.png',

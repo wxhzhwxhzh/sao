@@ -10,12 +10,11 @@ var config = {
   base:"/sao/",
   title: "骚神网站",
   description: "Asao VitePress Site",
-
+  
+  // https://vitepress.dev/reference/default-theme-config
+  head: [["link", { rel: "icon", href: "public/fav1.ico" }]],
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-    head: [
-      { rel: 'icon', href: '/favicon.ico' },  // 设置 favicon
-    ],
+
     logo: '/logo/sao_logo.png',
     nav: [
       { text: 'Home', link: '/' },

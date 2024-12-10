@@ -19,13 +19,13 @@ var config = {
     logo: '/logo/sao_logo.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: '骚神插件', link: '/dp_helper/基本用法' },
-      { text: 'Examples', link: '/markdown-examples' },
+      { text: '🦜下载专区', link: '/download_zone/下载专区' },      
       {
         text: '骚神浏览器插件',
         items: [
-          { text: 'VIP版本', link: '/dp_helper/基本用法' },
-          { text: '免费版本', link: '/dp_helper/基本用法' },
+          { text: '使用手册', link: '/dp_helper/基本用法' },
+          { text: 'VIP版本', link: '/dp_helper/下载安装' },
+          { text: '免费版本', link: '/dp_helper/下载安装' },
         ]
       },
       {
@@ -36,6 +36,7 @@ var config = {
           { text: 'vitpress教学', link: 'https://docs.bugdesigner.cn/docs/Tutorial/vitepress.html' },
           { text: 'CurlConverter', link: 'https://curlconverter.com/' },
           { text: '骚神博客', link: 'https://wxhzhwxhzh.github.io/saossion_code_helper_online/' },
+          { text: 'Emoji大全', link: 'https://emoji6.com/emojiall/' },
         ]
       },
 
@@ -43,27 +44,27 @@ var config = {
     ],
 
     sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
 
-        ]
-      },
       {
         text: '骚神插件',
         items: [
           { text: '基本用法', link: '/dp_helper/基本用法' },
-          { text: '高级用法', link: '/dp_helper/基本用法' },
-          { text: '下载插件', link: '/dp_helper/基本用法' },
-          { text: '安装插件', link: '/dp_helper/基本用法' },
+          { text: '高级用法', link: '/dp_helper/高阶用法' },          
+        ]
+      },
+      {
+        text: '下载安装',
+        items: [
+          { text: '下载', link: '/dp_helper/下载安装' },
+          { text: '安装', link: '/dp_helper/下载安装' },
+
         ]
       },
       {
         text: '下载专区',
         items: [
-          { text: '基本用法', link: '/dp_helper/基本用法' },
+          { text: '🦜下载专区', link:  '/download_zone/下载专区' },
+          
 
         ]
       },

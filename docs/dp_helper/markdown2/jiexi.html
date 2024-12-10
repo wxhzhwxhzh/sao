@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown File Example</title>
+    
+    <!-- <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script> -->
+     <script src="/js/marked.min.js"></script>
+</head>
+<body>
+    <div id="content"></div>
+
+    <script >
+        console.log("高阶用法");
+        
+        // 加载 markdown 文件并渲染
+        fetch('./markdown2/高阶用法.md')  // 替换为你的 Markdown 文件路径
+            .then(response => response.text())
+            .then(text => {
+                const html = marked.parse(text); // 将 markdown 转换为 HTML
+                document.getElementById('content').innerHTML = html;  // 插入到页面中
+            })
+            .catch(err => console.error('Error loading markdown file:', err));
+
+            
+    </script>
+</body>
+</html>

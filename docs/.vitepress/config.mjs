@@ -49,9 +49,9 @@ var config = {
         text: '骚神插件',
         items: [
           { text: '基本用法', link: '/dp_helper/基本用法' },
-          { text: '高级用法', link: '/dp_helper/高级用法' },
-          { text: '下载插件', link: '/dp_helper/高级用法' },
-          { text: '安装插件', link: '/dp_helper/高级用法' },
+          { text: '高级用法', link: '/dp_helper/基本用法' },
+          { text: '下载插件', link: '/dp_helper/基本用法' },
+          { text: '安装插件', link: '/dp_helper/基本用法' },
         ]
       },
       {

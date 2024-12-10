@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: 下载专区
       link: /download_zone/下载专区
+    - theme: alt
+      text: 实战教学
+      link: /teach_code/实战代码
   image:
     src: https://wxhzhwxhzh.github.io/saossion_code_helper_online/img/saoshen.png
     alt: sao_logo    

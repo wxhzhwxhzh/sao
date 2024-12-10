@@ -54,7 +54,7 @@ var config = {
         ]
       },
       {
-        text: '下载安装',
+        text: '插件安装下载',
         items: [
           { text: '下载', link: '/dp_helper/下载安装' },
           { text: '安装', link: '/dp_helper/下载安装' },
@@ -65,6 +65,14 @@ var config = {
         text: '下载专区',
         items: [
           { text: '🦜下载专区', link:  '/download_zone/下载专区' },
+          
+
+        ]
+      },
+      {
+        text: '实战代码',
+        items: [
+          { text: '🦄骚神课源码', link:  '/teach_code/实战代码' },
           
 
         ]

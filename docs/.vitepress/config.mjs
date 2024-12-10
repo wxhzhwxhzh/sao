@@ -37,6 +37,7 @@ var config = {
           { text: 'CurlConverter', link: 'https://curlconverter.com/' },
           { text: '骚神博客', link: 'https://wxhzhwxhzh.github.io/saossion_code_helper_online/' },
           { text: 'Emoji大全', link: 'https://emoji6.com/emojiall/' },
+          { text: 'MD文件编辑', link: 'https://www.bejson.com/md/' },
         ]
       },
 

@@ -7,6 +7,7 @@ const svgs = {
 
 
 var config = {
+  base:"/sao/",
   title: "骚神网站",
   description: "Asao VitePress Site",
   themeConfig: {

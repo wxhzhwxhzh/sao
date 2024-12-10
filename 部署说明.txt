@@ -1,0 +1,9 @@
+#  https://docs.bugdesigner.cn/docs/Tutorial/vitepress.html#%E5%88%9B%E5%BB%BA%E9%A1%B9%E7%9B%AE
+
+
+# 添加vitepress 模块
+pnpm add -D vitepress
+
+
+# 初始化 如果需要的话
+pnpm vitepress init

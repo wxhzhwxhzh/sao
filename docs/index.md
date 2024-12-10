@@ -14,8 +14,8 @@ hero:
       text: API Examples
       link: /api-examples
   image:
-    src: /logo/sao_logo.png
-    alt: Image alt    
+    src: https://wxhzhwxhzh.github.io/saossion_code_helper_online/img/saoshen.png
+    alt: sao_logo    
 
 features:
   - title: 骚神插件

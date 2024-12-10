@@ -7,3 +7,9 @@ pnpm add -D vitepress
 
 # 初始化 如果需要的话
 pnpm vitepress init
+
+
+# 更换pnpm  的源
+pnpm config set registry https://registry.npmmirror.com
+# 验证源
+pnpm config get registry

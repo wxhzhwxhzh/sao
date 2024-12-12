@@ -14,18 +14,19 @@ const head_config = [
 
 // 导航栏配置
 const nav_config= [
-  { text: 'Home', link: '/' },
+  { text: '🏡Home', link: '/' },
+  { text: '🍒骚神课源码', link: '/teach_code/实战代码' },
   { text: '🦜下载专区', link: '/download_zone/下载专区' },
   {
-    text: '骚神浏览器插件',
+    text: '🍭骚神浏览器插件',
     items: [
-      { text: '使用手册', link: '/dp_helper/基本用法' },
+      { text: '🥒使用手册', link: '/dp_helper/基本用法' },
       { text: '🥇VIP版本', link: '/dp_helper/下载安装' },
       { text: '免费版本(7.9)', link: '/dp_helper/下载安装' },
     ]
   },
   {
-    text: '骚网站',
+    text: '💋骚网站',
     items: [
       { text: '1.DP官网', link: 'http://drissionpage.cn/' },
       { text: '2.虫盒', link: 'https://spiderbox.cn/' },

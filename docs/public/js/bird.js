@@ -38,22 +38,36 @@ const overlayImage = $('<img>').css({
 });
 overlay.append(overlayImage);
 
-// 将遮罩层添加到 body 中
-$('body').append(overlay);
 
-// 使用事件委托来处理图片点击
-$('body').on('click', 'img', function (event) {
-    // 获取点击的图片的原始大小
-    const imageSrc = $(this).attr('src');
 
-    // 设置遮罩层中的大图
-    overlayImage.attr('src', imageSrc);
 
-    // 显示遮罩层
-    overlay.css('display', 'flex');
-});
+function do_work(){
 
-// 关闭遮罩层的函数
-overlay.on('click', function () {
-    $(this).css('display', 'none');
-});
+    // 将遮罩层添加到 body 中
+    $('body').append(overlay);
+    
+    // 使用事件委托来处理图片点击
+    $('body').on('click', 'img', function (event) {
+        // 获取点击的图片的原始大小
+        const imageSrc = $(this).attr('src');
+    
+        // 设置遮罩层中的大图
+        overlayImage.attr('src', imageSrc);
+    
+        // 显示遮罩层
+        overlay.css('display', 'flex');
+    });
+    
+    // 关闭遮罩层的函数
+    overlay.on('click', function () {
+        $(this).css('display', 'none');
+    });
+    console.log("骚神网站后台js已成功加载..");
+}
+
+// 延迟执行  等待页面加载完毕
+setTimeout(do_work,5000);
+// window.onload=do_work;
+    
+
+    

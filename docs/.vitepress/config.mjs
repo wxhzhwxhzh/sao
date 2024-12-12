@@ -109,7 +109,7 @@ var config = {
   head: head_config,
   
   themeConfig: {
-    logo: '/logo/sao_logo.png',
+    logo: './logo/sao_logo.png',
     nav:nav_config,
     sidebar: sidebar_config,
     // 设置搜索框的样式

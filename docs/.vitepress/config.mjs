@@ -10,6 +10,7 @@ const head_config = [
   ['script', { src: './js/bird.js' }],
 ];
 
+
 // 导航栏配置
 const nav_config= [
   { text: 'Home', link: '/' },
@@ -105,6 +106,7 @@ var config = {
 
   // https://vitepress.dev/reference/default-theme-config
   head: head_config,
+  
   themeConfig: {
     logo: '/logo/sao_logo.png',
     nav:nav_config,

@@ -7,6 +7,7 @@ const svgs = {
 // 网页头部配置
 const head_config = [
   ['link', { rel: 'icon', href: './fav1.ico' }],
+  ['script', { src: 'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js' }],
   ['script', { src: './js/bird.js' }],
 ];
 
@@ -121,6 +122,17 @@ var config = {
     footer: {
       message: '一个专门教学新手Drissionpage的网站.',
       copyright: 'Copyright © 2023-saossionpage'
+    },
+    markdown: {
+      theme: {
+        light: 'min-light',
+        dark: 'one-dark-pro'
+      },
+      image: {
+        lazyLoading: true
+      },
+      lineNumbers: true,
+      
     },
   }
 }

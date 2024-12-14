@@ -17,34 +17,35 @@ getCurrentDateTime();
 
 //  用事件委托的方法  点击图片  放大图片  点击遮罩层  关闭图片
 // 创建遮罩层
-const overlay = $('<div>').css({
-    position: 'fixed',
-    top: 0,
-    left: 0,
-    width: '100%',
-    height: '100%',
-    backgroundColor: 'rgba(0, 0, 0, 0.7)',
-    display: 'none',
-    justifyContent: 'center',
-    alignItems: 'center',
-    zIndex: 1000,
-    cursor: 'pointer' // 点击遮罩层关闭
-});
 
-// 创建用于显示大图的元素
-const overlayImage = $('<img>').css({
-    maxWidth: '90%',
-    maxHeight: '90%'
-});
-overlay.append(overlayImage);
 
 
 
 
 function do_work(){
+    const sao_overlay = $('<div>').css({
+        position: 'fixed',
+        top: 0,
+        left: 0,
+        width: '100%',
+        height: '100%',
+        backgroundColor: 'rgba(0, 0, 0, 0.7)',
+        display: 'none',
+        justifyContent: 'center',
+        alignItems: 'center',
+        zIndex: 1000,
+        cursor: 'pointer' // 点击遮罩层关闭
+    });
+    
+    // 创建用于显示大图的元素
+    const overlayImage = $('<img>').css({
+        maxWidth: '90%',
+        maxHeight: '90%'
+    });
+    sao_overlay.append(overlayImage);
 
     // 将遮罩层添加到 body 中
-    $('body').append(overlay);
+    $('body').append(sao_overlay);
     
     // 使用事件委托来处理图片点击
     $('body').on('click', 'img', function (event) {
@@ -55,11 +56,11 @@ function do_work(){
         overlayImage.attr('src', imageSrc);
     
         // 显示遮罩层
-        overlay.css('display', 'flex');
+        sao_overlay.css('display', 'flex');
     });
     
     // 关闭遮罩层的函数
-    overlay.on('click', function () {
+    sao_overlay.on('click', function () {
         $(this).css('display', 'none');
     });
     console.log("骚神网站后台js已成功加载..");

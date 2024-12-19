@@ -38,6 +38,7 @@ const nav_config= [
       { text: '7.MD文件编辑', link: 'https://www.bejson.com/md/' },
       { text: '8.浏览器插件旧文档', link: 'https://wxhzhwxhzh.github.io/dp_helper_doc/' },
       { text: '9.CDP 文档', link: 'https://chromedevtools.github.io/devtools-protocol/' },
+      { text: '10.菜鸟编程导航', link: 'https://cainiao-coder.com/' },
     ]
   },
 

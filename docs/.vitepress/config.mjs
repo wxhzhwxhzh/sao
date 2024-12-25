@@ -17,6 +17,7 @@ const nav_config= [
   { text: '🏡Home', link: '/' },
   { text: '🍒骚神课源码', link: '/teach_code/实战代码' },
   { text: '🦜下载专区', link: '/download_zone/下载专区' },
+  { text: '🗡️法宝专区', link: '/download_zone/法宝专区' },
   { text: '👹Saossion骚神python库', link: '/download_zone/变异版DP' },
   {
     text: '🍭骚神浏览器插件',
@@ -27,7 +28,7 @@ const nav_config= [
     ]
   },
   {
-    text: '💋骚网站',
+    text: '💋传送点',
     items: [
       { text: '1.DP官网', link: 'http://drissionpage.cn/' },
       { text: '2.虫盒', link: 'https://spiderbox.cn/' },
@@ -39,6 +40,7 @@ const nav_config= [
       { text: '8.浏览器插件旧文档', link: 'https://wxhzhwxhzh.github.io/dp_helper_doc/' },
       { text: '9.CDP 文档', link: 'https://chromedevtools.github.io/devtools-protocol/' },
       { text: '10.菜鸟编程导航', link: 'https://cainiao-coder.com/' },
+      { text: '11.浏览器插件博客', link: 'https://wxhzhwxhzh.github.io/dp_helper_doc/' },
     ]
   },
 
@@ -73,6 +75,7 @@ const sidebar_config=[
     text: '下载专区',
     items: [
       { text: '🦜下载专区', link: '/download_zone/下载专区' },
+      { text: '🗡️法宝专区', link: '/download_zone/法宝专区' },
 
 
     ]

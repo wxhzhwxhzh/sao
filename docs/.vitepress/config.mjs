@@ -41,6 +41,7 @@ const nav_config= [
       { text: '9.CDP 文档', link: 'https://chromedevtools.github.io/devtools-protocol/' },
       { text: '10.菜鸟编程导航', link: 'https://cainiao-coder.com/' },
       { text: '11.浏览器插件博客', link: 'https://wxhzhwxhzh.github.io/dp_helper_doc/' },
+      { text: '12.爬虫工具库', link: 'https://spidertools.cn/#/' },
     ]
   },
 

@@ -42,6 +42,7 @@ const nav_config= [
       { text: '10.菜鸟编程导航', link: 'https://cainiao-coder.com/' },
       { text: '11.浏览器插件博客', link: 'https://wxhzhwxhzh.github.io/dp_helper_doc/' },
       { text: '12.爬虫工具库', link: 'https://spidertools.cn/#/' },
+      { text: '13.爬虫靶场', link: 'https://scrape.center/' },
     ]
   },
 

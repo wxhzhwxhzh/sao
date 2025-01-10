@@ -31,11 +31,11 @@ const nav_config= [
     text: '💋传送点',
     items: [
       { text: '1.DP官网', link: 'http://drissionpage.cn/' },
-      { text: '2.虫盒', link: 'https://spiderbox.cn/' },
+      { text: '2.🐛虫盒', link: 'https://spiderbox.cn/' },
       { text: '3.vitpress教学', link: 'https://docs.bugdesigner.cn/docs/Tutorial/vitepress.html' },
       { text: '4.CurlConverter', link: 'https://curlconverter.com/' },
       { text: '5.骚神博客', link: 'https://wxhzhwxhzh.github.io/saossion_code_helper_online/' },
-      { text: '6.Emoji大全', link: 'https://emoji6.com/emojiall/' },
+      { text: '6.😀Emoji大全', link: 'https://emoji6.com/emojiall/' },
       { text: '7.MD文件编辑', link: 'https://www.bejson.com/md/' },
       { text: '8.浏览器插件旧文档', link: 'https://wxhzhwxhzh.github.io/dp_helper_doc/' },
       { text: '9.CDP 文档', link: 'https://chromedevtools.github.io/devtools-protocol/' },

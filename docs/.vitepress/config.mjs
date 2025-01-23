@@ -13,7 +13,7 @@ const head_config = [
 
 
 // 导航栏配置
-const nav_config= [
+const nav_config = [
   { text: '🏡Home', link: '/' },
   { text: '🍒骚神课源码', link: '/teach_code/实战代码' },
   { text: '🦜下载专区', link: '/download_zone/下载专区' },
@@ -44,8 +44,22 @@ const nav_config= [
       { text: '12.爬虫工具库', link: 'https://spidertools.cn/#/' },
       { text: '13.爬虫靶场', link: 'https://scrape.center/' },
       { text: '14.指纹检测', link: 'https://bot.sannysoft.com/' },
+      
     ]
   },
+  {
+    text: '🥕动漫',
+    items: [
+
+      { text: '凡人修仙传', link: 'https://www.bilibili.com/bangumi/play/ss28747?spm_id_from=333.337.0.0' },
+      { text: '牧神记', link: 'https://www.bilibili.com/bangumi/play/ss45969?spm_id_from=333.337.0.0' },
+      { text: '虎鹤妖师', link: 'https://www.bilibili.com/bangumi/play/ss45960?spm_id_from=333.337.0.0' },
+      { text: '斗罗大陆', link: 'https://v.qq.com' },
+      { text: '斗破苍穹', link: 'https://v.qq.com' },
+      { text: '异人之下', link: 'https://www.iyf.tv/play/uVzIZDyroNk?id=T8VMmnNktr4' },
+
+    ]
+  }
 
 ];
 

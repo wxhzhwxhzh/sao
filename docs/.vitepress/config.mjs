@@ -20,7 +20,7 @@ const nav_config = [
   { text: '🗡️法宝专区', link: '/download_zone/法宝专区' },
   { text: '👹Saossion骚神python库', link: '/download_zone/变异版DP' },
   {
-    text: '🍭骚神浏览器插件',
+    text: '🍭浏览器插件',
     items: [
       { text: '🥒使用手册', link: '/dp_helper/基本用法' },
       { text: '👑VIP版本', link: '/dp_helper/下载安装' },

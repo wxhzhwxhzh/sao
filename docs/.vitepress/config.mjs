@@ -56,7 +56,7 @@ const nav_config = [
       { text: '虎鹤妖师', link: 'https://www.bilibili.com/bangumi/play/ss45960?spm_id_from=333.337.0.0' },
       { text: '斗罗大陆', link: 'https://v.qq.com' },
       { text: '斗破苍穹', link: 'https://v.qq.com' },
-      { text: '异人之下', link: 'https://www.iyf.tv/play/uVzIZDyroNk?id=T8VMmnNktr4' },
+      { text: '异人之下1', link: 'https://www.iyf.tv/play/uVzIZDyroNk?id=T8VMmnNktr4' },
 
     ]
   }

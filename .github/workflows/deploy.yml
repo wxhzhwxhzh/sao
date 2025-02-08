@@ -51,7 +51,7 @@ jobs:
         run: ls -la docs/.vitepress/dist # 调试构建结果，确保 .nojekyll 存在
 
       - name: Upload Artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./docs/.vitepress/dist # 确保路径正确
 

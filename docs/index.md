@@ -22,9 +22,9 @@ hero:
 
 features:
   - title: 骚神插件
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 教学视频
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: 新手使用的drissionpage专用浏览器插件，可快速帮助新手上手使用(有免费版和VIP版)
+  - title:  问题咨询
+    details: 咨询drissionpage 疑难杂症技术问题 （QQ  1227141324  ）
 
 ---
 

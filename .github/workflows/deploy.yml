@@ -41,7 +41,7 @@ jobs:
 
       - name: Install Dependencies
         run: pnpm install # 安装依赖
-        
+
       # 构建 VitePress 站点
       # 防止 GitHub Pages 处理 Jekyll
       - name: Build with VitePress
@@ -69,4 +69,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3  # 部署到 GitHub Pages
+        uses: actions/deploy-pages@v4  # 部署到 GitHub Pages

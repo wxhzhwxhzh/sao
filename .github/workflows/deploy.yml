@@ -41,11 +41,14 @@ jobs:
 
       - name: Install Dependencies
         run: pnpm install # 安装依赖
-
+        
+      # 构建 VitePress 站点
+      # 防止 GitHub Pages 处理 Jekyll
       - name: Build with VitePress
         run: |
-          pnpm run docs:build  # 构建 VitePress 站点
-          touch docs/.vitepress/dist/.nojekyll  # 防止 GitHub Pages 处理 Jekyll
+          pnpm run docs:build  
+          
+          touch ./docs/.vitepress/dist/.nojekyll  
 
       - name: Check Build Output
         run: ls -la docs/.vitepress/dist # 调试构建结果，确保 .nojekyll 存在

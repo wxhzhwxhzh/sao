@@ -30,6 +30,7 @@ const nav_config = [
   {
     text: '💋传送点',
     items: [
+      { text: '0.🌏️全能导航', link: '/public/hao123' },
       { text: '1.DP官网', link: 'http://drissionpage.cn/' },
       { text: '2.🐛虫盒', link: 'https://spiderbox.cn/' },
       { text: '3.vitpress教学', link: 'https://docs.bugdesigner.cn/docs/Tutorial/vitepress.html' },
@@ -44,6 +45,7 @@ const nav_config = [
       { text: '12.爬虫工具库', link: 'https://spidertools.cn/#/' },
       { text: '13.爬虫靶场', link: 'https://scrape.center/' },
       { text: '14.指纹检测', link: 'https://bot.sannysoft.com/' },
+      { text: '15.CrxSOSO', link: 'https://www.crxsoso.com/' },
       
     ]
   },
@@ -56,7 +58,6 @@ const nav_config = [
       { text: '虎鹤妖师', link: 'https://www.bilibili.com/bangumi/play/ss45960?spm_id_from=333.337.0.0' },
       { text: '斗罗大陆', link: 'https://v.qq.com' },
       { text: '斗破苍穹', link: 'https://v.qq.com' },
-      { text: '异人之下1', link: 'https://www.iyf.tv/play/uVzIZDyroNk?id=T8VMmnNktr4' },
 
     ]
   }

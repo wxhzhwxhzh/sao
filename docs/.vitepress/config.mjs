@@ -46,6 +46,7 @@ const nav_config = [
       { text: '13.爬虫靶场', link: 'https://scrape.center/' },
       { text: '14.指纹检测', link: 'https://bot.sannysoft.com/' },
       { text: '15.CrxSOSO', link: 'https://www.crxsoso.com/' },
+      { text: '15.豆包编程大师', link: 'https://www.marscode.cn/chat-playground' },
       
     ]
   },

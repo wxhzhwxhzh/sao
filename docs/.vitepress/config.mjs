@@ -59,6 +59,7 @@ const nav_config = [
       { text: '虎鹤妖师', link: 'https://www.bilibili.com/bangumi/play/ss45960?spm_id_from=333.337.0.0' },
       { text: '斗罗大陆', link: 'https://v.qq.com' },
       { text: '斗破苍穹', link: 'https://v.qq.com' },
+      { text: '爱壹帆排行榜', link: 'https://www.iyf.tv/rank/all' },
 
     ]
   }
@@ -75,9 +76,11 @@ const sidebar_config=[
       { text: '基本用法', link: '/dp_helper/基本用法' },
       { text: '高级用法', link: '/dp_helper/高阶用法' },
       { text: 'VIP版本用法', items: [
-        { text: '🦨元素筛选器', link: '/dp_helper/元素筛选/元素筛选器' },
+        { text: '🐵万能复制', link: '/dp_helper/万能复制/万能复制.md' },
+        { text: '🦨元素筛选', link: '/dp_helper/元素筛选/元素筛选器' },
         { text: '🦓逆向助手', link: '/dp_helper/逆向助手/逆向助手' },
         { text: '🐭键鼠记录器', link: '/dp_helper/键鼠记录/键鼠记录器' },
+        { text: '🦔文档速查', link: '/dp_helper/文档速查/文档速查.md' },
   
       ] },
     ]

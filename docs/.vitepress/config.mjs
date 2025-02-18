@@ -16,16 +16,16 @@ const head_config = [
 const nav_config = [
   { text: '🏡Home', link: '/' },
   {
-    text: '🍎浏览器插件',
+    text: '🍎骚神插件',
     items: [
       { text: '🥒使用手册', link: '/dp_helper/基本用法' },
       { text: '👑VIP版本', link: '/dp_helper/下载安装' },
       { text: '🙂免费版本(7.9)', link: '/dp_helper/下载安装' },
     ]
   },
-  { text: '🍍视频源码', link: '/teach_code/实战代码' },
-  { text: '🦜下载专区', link: '/download_zone/下载专区' },
-  { text: '🗡️法宝专区', link: '/download_zone/法宝专区' },
+  { text: '🍍源码', link: '/teach_code/实战代码' },
+  { text: '🦜下载', link: '/download_zone/下载专区' },
+  { text: '🗡️法宝', link: '/download_zone/法宝专区' },
   { text: '👹变异骚神库', link: '/download_zone/变异版DP' },
   {
     text: '💋传送点',

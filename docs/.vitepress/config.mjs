@@ -47,6 +47,7 @@ const nav_config = [
       { text: '14.指纹检测', link: 'https://bot.sannysoft.com/' },
       { text: '15.CrxSOSO', link: 'https://www.crxsoso.com/' },
       { text: '15.豆包编程大师', link: 'https://www.marscode.cn/chat-playground' },
+      { text: '16.AI导航网站', link: 'https://chatgpt-sites.com/?type=star' },
       
     ]
   },

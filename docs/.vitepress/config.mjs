@@ -21,12 +21,13 @@ const nav_config = [
       { text: '🥒使用手册', link: '/dp_helper/基本用法' },
       { text: '👑VIP版本', link: '/dp_helper/下载安装' },
       { text: '🙂免费版本(7.9)', link: '/dp_helper/下载安装' },
+      { text: '插件实用手册最新版', link: 'https://docs.qq.com/aio/p/sc4xdbyayxdf36f?p=CDNmOdRjNMOM5hGBSjJQ2X' },
     ]
   },
-  { text: '🍍源码', link: '/teach_code/实战代码' },
-  { text: '🦜下载', link: '/download_zone/下载专区' },
-  { text: '🗡️法宝', link: '/download_zone/法宝专区' },
-  { text: '👹变异骚神库', link: '/download_zone/变异版DP' },
+  { text: '源码', link: '/teach_code/实战代码' },
+  { text: '下载', link: '/download_zone/下载专区' },
+  { text: '法宝', link: '/download_zone/法宝专区' },
+  { text: '变异骚神库', link: '/download_zone/变异版DP' },
   {
     text: '💋传送点',
     items: [
@@ -49,11 +50,12 @@ const nav_config = [
       { text: '15.豆包编程大师', link: 'https://www.marscode.cn/chat-playground' },
       { text: '16.AI导航网站', link: 'https://chatgpt-sites.com/?type=star' },
       { text: '16.腾讯文档插件手册', link: 'https://docs.qq.com/aio/p/sc4xdbyayxdf36f?p=CDNmOdRjNMOM5hGBSjJQ2X' },
+      { text: '17.JSON可视化', link: 'https://jsoncrack.com/editor' },
       
     ]
   },
   {
-    text: '🥕动漫',
+    text: '动漫',
     items: [
 
       { text: '凡人修仙传', link: 'https://www.bilibili.com/bangumi/play/ss28747?spm_id_from=333.337.0.0' },

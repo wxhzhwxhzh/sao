@@ -49,8 +49,9 @@ const nav_config = [
       { text: '15.CrxSOSO', link: 'https://www.crxsoso.com/' },
       { text: '15.豆包编程大师', link: 'https://www.marscode.cn/chat-playground' },
       { text: '16.AI导航网站', link: 'https://chatgpt-sites.com/?type=star' },
-      { text: '16.腾讯文档插件手册', link: 'https://docs.qq.com/aio/p/sc4xdbyayxdf36f?p=CDNmOdRjNMOM5hGBSjJQ2X' },
-      { text: '17.JSON可视化', link: 'https://jsoncrack.com/editor' },
+      { text: '17.腾讯文档插件手册', link: 'https://docs.qq.com/aio/p/sc4xdbyayxdf36f?p=CDNmOdRjNMOM5hGBSjJQ2X' },
+      { text: '18.JSON可视化', link: 'https://jsoncrack.com/editor' },
+      { text: '19.豆包云端IDE', link: 'https://www.marscode.cn/dashboard' },
       
     ]
   },

@@ -52,6 +52,7 @@ const nav_config = [
       { text: '17.腾讯文档插件手册', link: 'https://docs.qq.com/aio/p/sc4xdbyayxdf36f?p=CDNmOdRjNMOM5hGBSjJQ2X' },
       { text: '18.JSON可视化', link: 'https://jsoncrack.com/editor' },
       { text: '19.豆包云端IDE', link: 'https://www.marscode.cn/dashboard' },
+      { text: '20.x-cmd', link: 'https://cn.x-cmd.com/' },
       
     ]
   },

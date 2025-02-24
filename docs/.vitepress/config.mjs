@@ -28,6 +28,7 @@ const nav_config = [
   { text: '下载', link: '/download_zone/下载专区' },
   { text: '法宝', link: '/download_zone/法宝专区' },
   { text: '变异骚神库', link: '/download_zone/变异版DP' },
+  { text: '问答网站', link: 'http://8.152.211.132:9080/' },
   {
     text: '💋传送点',
     items: [

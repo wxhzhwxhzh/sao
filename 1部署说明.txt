@@ -1,5 +1,10 @@
 #  https://docs.bugdesigner.cn/docs/Tutorial/vitepress.html#%E5%88%9B%E5%BB%BA%E9%A1%B9%E7%9B%AE
 
+#服务器安装pnpm         
+npm install -g pnpm 
+# 外网暴露
+pnpm vitepress  dev docs --host 
+
 
 # 添加vitepress 模块
 pnpm add -D vitepress

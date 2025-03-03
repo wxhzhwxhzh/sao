@@ -6,7 +6,7 @@ const svgs = {
 }
 // 网页头部配置
 const head_config = [
-  ['link', { rel: 'icon', href: './fav1.ico' }],
+  ['link', { rel: 'icon', href: './fav2.png' }],
   ['script', { src: 'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js' }],
   ['script', { src: './js/bird.js' }],
 ];
@@ -151,7 +151,7 @@ var config = {
   head: head_config,
   
   themeConfig: {
-    logo: './logo/sao_logo.png',
+    logo: './fav2.png',
     nav:nav_config,
     sidebar: sidebar_config,
     // 设置搜索框的样式

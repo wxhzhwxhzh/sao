@@ -54,6 +54,7 @@ const nav_config = [
       { text: '18.JSON可视化', link: 'https://jsoncrack.com/editor' },
       { text: '19.豆包云端IDE', link: 'https://www.marscode.cn/dashboard' },
       { text: '20.x-cmd', link: 'https://cn.x-cmd.com/' },
+      { text: '21.DrissionPage代码启动助手', link: 'https://wxhzhwxhzh.github.io/dpcode/' },
       
     ]
   },

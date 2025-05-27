@@ -47,8 +47,7 @@ const nav_config = [
       { text: '12.爬虫工具库', link: 'https://spidertools.cn/#/' },
       { text: '13.爬虫靶场', link: 'https://scrape.center/' },
       { text: '14.指纹检测', link: 'https://bot.sannysoft.com/' },
-      { text: '15.CrxSOSO', link: 'https://www.crxsoso.com/' },
-      { text: '15.豆包编程大师', link: 'https://www.marscode.cn/chat-playground' },
+      { text: '15.JSON4U 在线编辑器', link: 'https://json4u.cn/editor' },
       { text: '16.DrissionPage工具库', link: 'https://wxhzhwxhzh.github.io/dptool' },
       { text: '17.腾讯文档插件手册', link: 'https://docs.qq.com/aio/p/sc4xdbyayxdf36f?p=CDNmOdRjNMOM5hGBSjJQ2X' },
       { text: '18.JSON可视化', link: 'https://jsoncrack.com/editor' },
@@ -64,7 +63,6 @@ const nav_config = [
 
       { text: '凡人修仙传', link: 'https://www.bilibili.com/bangumi/play/ss28747?spm_id_from=333.337.0.0' },
       { text: '牧神记', link: 'https://www.bilibili.com/bangumi/play/ss45969?spm_id_from=333.337.0.0' },
-      { text: '虎鹤妖师', link: 'https://www.bilibili.com/bangumi/play/ss45960?spm_id_from=333.337.0.0' },
       { text: '斗罗大陆', link: 'https://v.qq.com' },
       { text: '斗破苍穹', link: 'https://v.qq.com' },
       { text: '爱壹帆排行榜', link: 'https://www.iyf.tv/rank/all' },

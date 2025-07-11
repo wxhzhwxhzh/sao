@@ -63,8 +63,8 @@ const nav_config = [
 
       { text: '凡人修仙传', link: 'https://www.bilibili.com/bangumi/play/ss28747?spm_id_from=333.337.0.0' },
       { text: '牧神记', link: 'https://www.bilibili.com/bangumi/play/ss45969?spm_id_from=333.337.0.0' },
-      { text: '斗罗大陆', link: 'https://v.qq.com' },
-      { text: '斗破苍穹', link: 'https://v.qq.com' },
+      { text: 'newsNow', link: 'https://newsnow.busiyi.world/' },
+      { text: 'Linux换源', link: 'https://linuxmirrors.cn/other/' },
       { text: '爱壹帆排行榜', link: 'https://www.iyf.tv/rank/all' },
       { text: 'RunWeb', link: 'https://uiwjs.github.io/react-run-web/' },
       { text: 'github rank', link: 'https://wangchujiang.com/github-rank/trending.html' },

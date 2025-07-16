@@ -69,6 +69,7 @@ const nav_config = [
       { text: 'RunWeb', link: 'https://uiwjs.github.io/react-run-web/' },
       { text: 'github rank', link: 'https://wangchujiang.com/github-rank/trending.html' },
       { text: 'chrome插件官方文档', link: 'https://developer.chrome.com/docs/extensions?hl=zh-cn' },
+      { text: '换源教程', link: '/study/huanyuan.md' },
 
     ]
   }

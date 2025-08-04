@@ -70,6 +70,7 @@ const nav_config = [
       { text: 'github rank', link: 'https://wangchujiang.com/github-rank/trending.html' },
       { text: 'chrome插件官方文档', link: 'https://developer.chrome.com/docs/extensions?hl=zh-cn' },
       { text: '换源教程', link: '/study/huanyuan.md' },
+      { text: 'docker换源教程', link: '/study/docker_huanyuan.md' },
       { text: ' LibreTV', link: 'http://8.152.211.132:8989/' },
       { text: ' MoonTV', link: 'http://8.152.211.132:8990/login' },
 

@@ -73,6 +73,7 @@ const nav_config = [
       { text: 'docker换源教程', link: '/study/docker_huanyuan.md' },
       { text: ' LibreTV', link: 'http://8.152.211.132:8989/' },
       { text: ' MoonTV', link: 'http://8.152.211.132:8990/login' },
+      { text: ' Docker指南', link: '/study/docker.md' },
 
     ]
   }

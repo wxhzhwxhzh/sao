@@ -61,8 +61,7 @@ const nav_config = [
     text: '其他',
     items: [
 
-      { text: '凡人修仙传', link: 'https://www.bilibili.com/bangumi/play/ss28747?spm_id_from=333.337.0.0' },
-      { text: '牧神记', link: 'https://www.bilibili.com/bangumi/play/ss45969?spm_id_from=333.337.0.0' },
+
       { text: 'newsNow', link: 'https://newsnow.busiyi.world/' },
       { text: 'Linux换源', link: 'https://linuxmirrors.cn/other/' },
       { text: '爱壹帆排行榜', link: 'https://www.iyf.tv/rank/all' },
@@ -74,6 +73,7 @@ const nav_config = [
       { text: ' LibreTV', link: 'http://8.152.211.132:8989/' },
       { text: ' MoonTV', link: 'http://8.152.211.132:8990/login' },
       { text: ' Docker指南', link: '/study/docker.md' },
+      { text: ' Xget', link: '/study/xget.md' },
 
     ]
   }

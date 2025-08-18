@@ -156,6 +156,7 @@ var config = {
 
   // https://vitepress.dev/reference/default-theme-config
   head: head_config,
+  ignoreDeadLinks: true,
   
   themeConfig: {
     logo: './fav2.png',

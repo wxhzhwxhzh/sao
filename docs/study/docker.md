@@ -19,6 +19,32 @@ docker image ls
 docker rmi nginx
 docker rmi image_id
 ```
+### 国内镜像源
+```bash
+
+
+# 使用 Python 3.9 的 slim 版本作为基础镜像
+FROM docker.m.daocloud.io/library/python:3.9-slim
+
+https://docker-0.unsee.tech
+https://docker.1panel.live
+https://registry.dockermirror.com
+https://docker.imgdb.de
+https://docker.m.daocloud.io
+https://hub.firefly.store
+https://hub.littlediary.cn
+https://hub.rat.dev
+https://dhub.kubesre.xyz
+https://cjie.eu.org
+https://docker.1panelproxy.com
+https://docker.hlmirror.com
+https://hub.fast360.xyz
+https://dockerpull.cn
+https://cr.laoyou.ip-ddns.com
+https://docker.melikeme.cn
+https://docker.kejilion.pro
+
+```
 
 ### 构建镜像
 ```bash

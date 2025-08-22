@@ -57,6 +57,7 @@ export const nav_config = [
       { text: ' MoonTV', link: 'http://8.152.211.132:8990/login' },
       { text: ' Docker指南', link: '/study/docker.md' },
       { text: ' Xget', link: '/study/xget.md' },
+      { text: ' vim', link: '/study/vim.md' },
     ]
   }
 ];

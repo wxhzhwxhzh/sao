@@ -59,6 +59,7 @@ export const nav_config = [
       { text: ' Xget', link: '/study/xget.md' },
       { text: ' vim', link: '/study/vim.md' },
       { text: ' nano', link: '/study/nano.md' },
+      { text: ' pycharm', link: '/study/pycharm.md' },
     ]
   }
 ];

@@ -60,6 +60,7 @@ export const nav_config = [
       { text: ' vim', link: '/study/vim.md' },
       { text: ' nano', link: '/study/nano.md' },
       { text: ' pycharm', link: '/study/pycharm.md' },
+      { text: ' vscode', link: '/study/vscode.md' },
     ]
   }
 ];

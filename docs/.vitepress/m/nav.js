@@ -16,8 +16,9 @@ export const nav_config = [
   { text: '变异骚神库', link: '/download_zone/变异版DP' },
   { text: '程序员手册', link: 'http://8.152.211.132:9667/index.html' },
   {
-    text: '💋传送点',
+    text: '💋实用工具',
     items: [
+      { text: '0.远程操作浏览器', link: '/study/remote_dp/remote_dp.md' },
       { text: '0.🌏️全能导航', link: '/public/hao123' },
       { text: '1.DP官网', link: 'http://drissionpage.cn/' },
       { text: '2.🐛虫盒', link: 'https://spiderbox.cn/' },
@@ -44,7 +45,7 @@ export const nav_config = [
   },
   {
     text: '其他',
-    items: [
+    items: [      
       { text: 'newsNow', link: 'https://newsnow.busiyi.world/' },
       { text: 'Linux换源', link: 'https://linuxmirrors.cn/other/' },
       { text: '爱壹帆排行榜', link: 'https://www.iyf.tv/rank/all' },

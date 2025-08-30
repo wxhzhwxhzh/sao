@@ -140,3 +140,24 @@ netstat -tlnp | grep 9222
 # 检查SSH隧道是否建立
 netstat -tlnp | grep 9227
 ```
+
+
+### 其他方法
+#### 通过nginx反向代理websocket
+ sudo nano  /etc/nginx/nginx.conf
+``` # nginx.conf
+
+events {}
+http{
+   server {
+       listen 9227;
+
+       location / {
+           proxy_pass http://127.0.0.1:9222;
+           proxy_http_version 1.1;
+           proxy_set_header Upgrade $http_upgrade;
+           proxy_set_header Connection "upgrade";
+       }
+   }
+}
+```

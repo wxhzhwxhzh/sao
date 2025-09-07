@@ -49,6 +49,7 @@ export const nav_config = [
       { text: 'newsNow', link: 'https://newsnow.busiyi.world/' },
       { text: 'Linux换源', link: 'https://linuxmirrors.cn/other/' },
       { text: '爱壹帆排行榜', link: 'https://www.iyf.tv/rank/all' },
+      { text: '绿色谷歌浏览器', link: '/study/green_chrome.md' },
       { text: 'RunWeb', link: 'https://uiwjs.github.io/react-run-web/' },
       { text: 'github rank', link: 'https://wangchujiang.com/github-rank/trending.html' },
       { text: 'chrome插件官方文档', link: 'https://developer.chrome.com/docs/extensions?hl=zh-cn' },

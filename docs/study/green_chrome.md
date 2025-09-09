@@ -4,8 +4,9 @@
 [https://download-chromium.appspot.com/](https://download-chromium.appspot.com/)
 
 ## 💻 绿色便携谷歌浏览器（Windows 64位系统）
-- [chrome-win.zip github下载](https://github.com/wxhzhwxhzh/sao/releases/download/1.4/chrome-win.zip)
-- [chrome-win.zip 微云下载](https://share.weiyun.com/X1ICZuST)
+1. github [chrome-win.zip ](https://github.com/wxhzhwxhzh/sao/releases/download/1.4/chrome-win.zip)
+2. 微云 [chrome-win.zip](https://share.weiyun.com/X1ICZuST)
+3. 微云(135版本) [GoogleChromePortable64.zip](https://share.weiyun.com/7jVoDH6O)
 
 ## ℹ️ 什么是绿色版Chrome浏览器
 绿色版Chrome浏览器是无需安装的便携版本，可以直接从压缩包解压后运行，不会在系统中留下注册表等痕迹。

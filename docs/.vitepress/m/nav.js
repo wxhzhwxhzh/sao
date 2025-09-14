@@ -13,7 +13,7 @@ export const nav_config = [
   { text: '源码', link: '/teach_code/实战代码' },
   { text: '下载', link: '/download_zone/下载专区' },
   { text: '法宝', link: '/download_zone/法宝专区' },
-  { text: '变异骚神库', link: '/download_zone/变异版DP' },
+  { text: 'MCP', link: 'https://github.com/wxhzhwxhzh/DrissionPageMCP' },
   {
     text: '网站', items: [
       { text: '0. 全能导航', link: '/public/hao123' },

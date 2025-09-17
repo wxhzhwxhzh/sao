@@ -37,6 +37,7 @@ export const nav_config = [
   {
     text: "💋实用工具",
     items: [
+      { text: "0. DrissionPage视频教程合集", link: "https://docs.qq.com/aio/p/sckaefqt1u9w4mp?p=9DxTpYW2fuSIXLP2zeiqxN&nlc=1" },
       { text: "1. 远程操作浏览器", link: "/study/remote_dp/remote_dp.md" },
       { text: "2. DrissionPage工具库", link: "https://wxhzhwxhzh.github.io/dptool" },
       { text: "3. 腾讯文档插件手册", link: "https://docs.qq.com/aio/p/sc4xdbyayxdf36f?p=CDNmOdRjNMOM5hGBSjJQ2X" },

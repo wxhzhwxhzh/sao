@@ -17,7 +17,7 @@ hero:
       text: 实战教学
       link: /teach_code/实战代码
   image:
-    src: https://wxhzhwxhzh.github.io/saossion_code_helper_online/img/saoshen.png
+    src: /logo/sao_3d.png
     alt: sao_logo    
 
 features:

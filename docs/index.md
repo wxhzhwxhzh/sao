@@ -33,5 +33,6 @@ features:
 
 1. 📺️[DrissionPage全系列视频教程（80集）](https://space.bilibili.com/48179703/lists/3859654?type=season)
 2. 📗[骚神VIP插件使用手册](https://docs.qq.com/aio/p/sc4xdbyayxdf36f?p=CDNmOdRjNMOM5hGBSjJQ2X)
+3. [🔮其他网站](/study/daohang)
 
 

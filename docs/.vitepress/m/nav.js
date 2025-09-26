@@ -50,6 +50,7 @@ export const nav_config = [
   {
     text: "其他",
     items: [
+      { text: "1. dp镜像站", link: "https://wxhzhwxhzh.github.io/teek2/" },
       { text: "1. newsNow", link: "https://newsnow.busiyi.world/" },
       { text: "2. Linux换源", link: "https://linuxmirrors.cn/other/" },
       { text: "3. 爱壹帆排行榜", link: "https://www.iyf.tv/rank/all" },

@@ -42,7 +42,7 @@ export const nav_config = [
       { text: "2. DrissionPage工具库", link: "https://wxhzhwxhzh.github.io/dptool" },
       { text: "3. 腾讯文档插件手册", link: "https://docs.qq.com/aio/p/sc4xdbyayxdf36f?p=CDNmOdRjNMOM5hGBSjJQ2X" },
       { text: "4. JSON可视化", link: "https://jsoncrack.com/editor" },
-      { text: "5. WebSocket在线测试", link: "http://www.websocket-test.com/" },
+      { text: "5. 😀WebSocket在线测试", link: "https://toolin.cn/ws" },
       { text: "6. 👑装机必备软件", link: "/study/software.md" },
       { text: "7. DrissionPage代码启动助手", link: "https://wxhzhwxhzh.github.io/dpcode/" }
     ]

@@ -70,7 +70,8 @@ export const nav_config = [
       { text: "16. pycharm", link: "/study/pycharm.md" },
       { text: "17. vscode", link: "/study/vscode.md" },
       { text: "18. McpJson", link: "/study/MCPJSON.md" },
-      { text: "19. MD语法入门指南", link: "https://chat.qwen.ai/s/deploy/a17d2520-97d1-4e23-81d5-8163ce0f7eda" }
+      { text: "19. MD语法入门指南", link: "https://chat.qwen.ai/s/deploy/a17d2520-97d1-4e23-81d5-8163ce0f7eda" },
+      { text: "20. DevTool热键指南", link: "/study/devtool_hotkey.md" }
     ]
   }
 ];

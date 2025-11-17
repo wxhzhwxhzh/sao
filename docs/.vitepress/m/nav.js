@@ -50,7 +50,7 @@ export const nav_config = [
   {
     text: "其他",
     items: [
-      { text: "1. dp镜像站", link: "https://wxhzhwxhzh.github.io/teek2/" },
+      { text: "0. FMHY免费媒体大全", link: "https://fmhy.net/" },
       { text: "1. 新CDP文档", link: "https://vanilla.aslushnikov.com/?Browser" },
       { text: "1. newsNow", link: "https://newsnow.busiyi.world/" },
       { text: "2. Linux换源", link: "https://linuxmirrors.cn/other/" },

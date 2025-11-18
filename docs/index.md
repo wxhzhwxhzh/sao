@@ -31,7 +31,7 @@ features:
 
 ## 快捷访问
 
-- 📺️[B站视频教程（80集）](https://space.bilibili.com/48179703/lists/3859654?type=season) | 📗[骚神VIP插件使用手册](https://docs.qq.com/aio/p/sc4xdbyayxdf36f?p=CDNmOdRjNMOM5hGBSjJQ2X) | 🔍️[DrissionPage文档镜像站](https://wxhzhwxhzh.github.io/teek2/) | ©️[中文版CDP文档](https://wxhzhwxhzh.github.io/cdp/)
+- 📺️[B站视频教程（80集）](https://space.bilibili.com/48179703/lists/3859654?type=season) | 📗[骚神VIP插件使用手册](https://docs.qq.com/aio/p/sc4xdbyayxdf36f?p=CDNmOdRjNMOM5hGBSjJQ2X) | 🔍️[DrissionPage文档镜像站](https://wxhzhwxhzh.github.io/teek2/) | ©️[中文版CDP文档](https://wxhzhwxhzh.github.io/cdp/)| ©️[在线TV](https://wxhzhwxhzh.github.io/saotv/)
 
 
 

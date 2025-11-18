@@ -44,7 +44,10 @@ export const nav_config = [
       { text: "4. JSON可视化", link: "https://jsoncrack.com/editor" },
       { text: "5. 😀WebSocket在线测试", link: "https://toolin.cn/ws" },
       { text: "6. 👑装机必备软件", link: "/study/software.md" },
-      { text: "7. DrissionPage代码启动助手", link: "https://wxhzhwxhzh.github.io/dpcode/" }
+      { text: "7. DrissionPage代码启动助手", link: "https://wxhzhwxhzh.github.io/dpcode/" },
+      { text: "8. 📺️中国国际电视台", link: "https://www.cgtn.com/tv" },
+      { text: "9. 🇹🇻IPTV", link: "https://iptv-org.github.io/" },
+
     ]
   },
   {

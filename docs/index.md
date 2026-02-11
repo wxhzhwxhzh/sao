@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Drissionpage  "
+  name: "DrissionPage"
   text: "新手入门教学"
   tagline: Drissionpage  新手入门教学网站
   actions:

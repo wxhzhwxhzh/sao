@@ -64,6 +64,7 @@ export const nav_config = [
       { text: "7. chrome插件官方文档", link: "https://developer.chrome.com/docs/extensions?hl=zh-cn" },
       { text: "8. 换源教程", link: "/study/huanyuan.md" },
       { text: "9. docker换源教程", link: "/study/docker_huanyuan.md" },
+      { text: "9. Github加速服务", link: "http://8.152.211.132:8046/" },
       { text: "10. LibreTV", link: "http://8.152.211.132:8989/" },
       { text: "11. MoonTV", link: "http://8.152.211.132:8990/login" },
       { text: "12. Docker指南", link: "/study/docker.md" },

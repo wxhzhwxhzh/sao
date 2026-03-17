@@ -44,3 +44,14 @@ powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
 # 将当前项目以可编辑模式安装为全局命令，使用清华 PyPI 源
 uv tool install -e . -i https://pypi.tuna.tsinghua.edu.cn/simple/
 ```
+
+## uv相关设置
+
+```toml
+# 清华源
+[[tool.uv.index]]
+name = "tsinghua"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+default = true
+
+```

@@ -1,6 +1,7 @@
 // 导航栏配置
 export const nav_config = [
   { text: '🏡Home', link: '/' },
+  { text: '💬答疑论坛', link: '/discuss/QA.md' },
   {
     text: '🍎骚神插件',
     items: [

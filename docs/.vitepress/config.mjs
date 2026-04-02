@@ -18,7 +18,7 @@ const theme_config={
       { icon: { svg: svgs.bilibili }, link: 'https://space.bilibili.com/48179703' },
     ],
     footer: {
-      message: '一个专门教学新手Drissionpage的网站.',
+      message: '一个专门教学新手DrissionPage的网站.',
       copyright: 'Copyright © 2023-saossionpage'
     },
     markdown: {

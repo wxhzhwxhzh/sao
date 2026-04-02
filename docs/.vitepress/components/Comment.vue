@@ -2,10 +2,10 @@
 <template>
   <div style="margin-top: 40px;">
     <Giscus
-      repo="你的用户名/仓库名"
-      repo-id="从giscus.app获取"
+      repo="wxhzhwxhzh/sao"
+      repo-id="R_kgDONbZCjA"
       category="Announcements"
-      category-id="从giscus.app获取"
+      category-id="DIC_kwDONbZCjM4C53Tq"
       mapping="pathname"
       reactions-enabled="1"
       emit-metadata="0"

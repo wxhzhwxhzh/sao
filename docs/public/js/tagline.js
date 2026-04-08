@@ -7,6 +7,7 @@ if (link) {
     style: 'margin-left: 3px; vertical-align: middle;'
   });
   link.appendChild(img);
+  console.log('访问量统计添加成功')
 }
 
 

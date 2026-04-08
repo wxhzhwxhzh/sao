@@ -54,7 +54,22 @@ onMounted(() => {
 
   while (heroTextDom.lastChild) heroTextDom.lastChild.remove();
   heroTextDom.append(textDom);
+  
+  // 访问量统计
+  if (document.getElementById('访问量统计')) return;
+  const link = document.querySelector('a.title');
+  if (link) {
+    const img = document.createElement('img');
+    img.id = '访问量统计';
+    img.src = 'https://visitor-badge.laobi.icu/badge?page_id=wxhzhwxhzh';
+    img.style.marginLeft = '2px';
+    img.style.verticalAlign = 'middle';
+    link.appendChild(img);
+    console.log('访问量统计添加成功')
+  }
+
 });
+
 </script>
 
 <span id="hero-text" style="display: inline-block; position: relative">

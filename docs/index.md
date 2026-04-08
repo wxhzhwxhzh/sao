@@ -33,6 +33,8 @@ features:
 
 - 📺️[B站视频教程](https://space.bilibili.com/48179703/lists/3859654?type=season) | 📗[骚神插件使用手册](https://docs.qq.com/aio/p/sc4xdbyayxdf36f?p=CDNmOdRjNMOM5hGBSjJQ2X) | 🔍️[DP文档镜像站](https://wxhzhwxhzh.github.io/teek2/) | ©️[CDP文档](https://wxhzhwxhzh.github.io/cdp/)| ©️[在线TV](https://wxhzhwxhzh.github.io/saotv/)| ©️[在线歌曲](https://wxhzhwxhzh.github.io/songs/)| ©️[在线Docs2](https://wxhzhwxhzh.github.io/saodoc2/)| ©️[命令生成](https://wxhzhwxhzh.github.io/vue3-demo/)
 
+<!-- ![统计访问量](https://visitor-badge.laobi.icu/badge?page_id=wxhzhwxhzh.sao) -->
+
 
 
 

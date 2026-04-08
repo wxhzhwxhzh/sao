@@ -61,8 +61,8 @@ onMounted(() => {
   if (link) {
     const img = document.createElement('img');
     img.id = '访问量统计';
-    img.src = 'https://visitor-badge.laobi.icu/badge?page_id=wxhzhwxhzh';
-    img.style.marginLeft = '2px';
+    img.src = 'https://visitor-badge.laobi.icu/badge?page_id=wxhzhwxhzh.sao';
+    img.style.marginLeft = '3px';
     img.style.verticalAlign = 'middle';
     link.appendChild(img);
     console.log('访问量统计添加成功')

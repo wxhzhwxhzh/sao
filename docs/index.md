@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: 实战教学
       link: /teach_code/实战代码
+    - theme: alt
+      text: drissionpage 5.0 
+      link: /teach_code/dp5.0
   image:
     src: /logo/sao_3d.png
     alt: sao_logo    

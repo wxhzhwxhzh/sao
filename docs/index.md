@@ -50,6 +50,7 @@ features:
 | 🧛‍♀️ | 哈利波特与魔法石 | [点此访问](https://4m3h6501ydgua.doubaoapps.com/app/app_17fetxfngec) |
 | 🍒 | 豆包云沙箱预装工具环境 | [点此访问](https://feishu.doubao.com/docx/J5QRddlXyotHHUx5GuscrbU0nrd) |
 | 🧨 | deepseek-api 文档 |  [点此访问](https://wxhzhwxhzh.github.io/deepseek-helper-docs/) |
+| 🧨 | Matt Pocock Skills |  [点此访问](https://feishu.doubao.com/docx/RrYJd73Oeo7aT2xs5DFcFk0Dnjg) |
 
 <!-- ![统计访问量](https://visitor-badge.laobi.icu/badge?page_id=wxhzhwxhzh.sao) -->
 
